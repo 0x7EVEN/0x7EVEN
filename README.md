@@ -4,7 +4,7 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7EVEN&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&layout=compact)](https://github.com/0x7EVEN/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&layout=compact)
 
 
 <!--
