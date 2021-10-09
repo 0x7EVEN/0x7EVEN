@@ -49,6 +49,9 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>
 </div>
+
+<br/>
+<br/>
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 
 
