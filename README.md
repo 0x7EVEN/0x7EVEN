@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN"/>
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 
 
 
