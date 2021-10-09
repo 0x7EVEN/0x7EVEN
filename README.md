@@ -23,8 +23,6 @@
   <img alt="Boot Strap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
-  	
-  
 </p>
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
