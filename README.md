@@ -28,13 +28,10 @@
 <h3>Connect Me</h3>
 <div align="center">
   <a href="https://discordapp.com/users/0xScar#6818/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Discord%20@0xScar#6818-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
-  </a>
-  <a href="https://discordapp.com/users/0xScar#6818/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
   </a>
   <a href="https://0x7EVEN.github.io/portfolio">
-    <img alt="Instagram" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
+    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
   </a>
   <a href="https://www.instagram.com/ar1fshaikh/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
