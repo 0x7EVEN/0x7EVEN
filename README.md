@@ -1,6 +1,6 @@
 
-<div align="center">
-<img src="https://metrics.lecoq.io/0x7EVEN?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&pagespeed=1&notable=1&followup=1&languages=1&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+<div style="object-fit:cover;" align="center">
+<img  src="https://metrics.lecoq.io/0x7EVEN?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&pagespeed=1&notable=1&followup=1&languages=1&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </div>
 
 
@@ -15,7 +15,7 @@
   <img alt="C" src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="ASSEMBLY0x86" src="https://img.shields.io/badge/Assembly%200x86m-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="ASSEMBLY0x86" src="https://img.shields.io/badge/Assembly%200x86-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img alt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
