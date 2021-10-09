@@ -45,10 +45,6 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>
 </div>
-
-<br/>
-<br/>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 <br/>
 <br/>
 <h3>My Stats</h3>
@@ -56,7 +52,9 @@
 <div style="object-fit:cover;" align="center">
 <img  src="https://metrics.lecoq.io/0x7EVEN?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&pagespeed=1&notable=1&followup=1&languages=1&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </div>
-
+<br/>
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
+<br/>
 
 
 <!--
