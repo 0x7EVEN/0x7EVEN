@@ -1,5 +1,8 @@
 ![Metrics](https://metrics.lecoq.io/0x7EVEN?template=classic&gists=1&followup=1&lines=1&people=1&languages=1&isocalendar=1&introduction=1&achievements=1&discussions=1&repositories=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
+<br/>
+<hr/>
+<br/>
 <h3>Things I work with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -25,6 +28,7 @@
 </p>
 
 <br/>
+<hr/>
 <br/>
 <h3>Connect Me</h3>
 <div align="center">
