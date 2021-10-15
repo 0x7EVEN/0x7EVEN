@@ -1,5 +1,5 @@
 <h3>About me</h3>
-## I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
+<h4>I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!</h4>
 
 - 🔭 I’m currently working on an myself.
 - 🌱 I’m currently learning full stack web development.
