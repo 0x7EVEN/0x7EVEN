@@ -1,5 +1,13 @@
-<h3>What I do ?</h3>
+<h3>About me</h3>
 <h4>Full Stack Web Developer</h4>
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning full stack web development.
+- 👯 I’m looking to collaborate on open source.
+- 🤔 I’m looking for help with kernel exploitations.
+- 💬 Ask me about web development, reverse engineering, web exploitation.
+- 📫 How to reach me: ar1fshaikh@protonmail.com
+- ⚡ Fun fact: I am civil engineer. 
+
 <br/>
 <hr/>
 <br/>
@@ -10,7 +18,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="ASSEMBLY0x86" src="https://img.shields.io/badge/Assembly%200x86-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img alt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
