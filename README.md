@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source.<br />
 - 🤔 I’m looking for help with kernel exploitations.<br />
 - 💬 Ask me about web development, reverse engineering, web exploitation.<br />
-- 📫 How to reach me: ar1fshaikh@protonmail.com<br />
+- 📫 How to reach me: <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a><br />
 - ⚡ Fun fact: I am civil engineer. <br />
 
 <br/>
