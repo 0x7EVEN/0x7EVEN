@@ -1,13 +1,10 @@
 <h3>About me</h3>
-<h4>Full Stack Web Developer</h4>
-- 🔭 I’m currently working on myself.<br />
-- 🌱 I’m currently learning full stack web development.<br />
-- 👯 I’m looking to collaborate on open source.<br />
-- 🤔 I’m looking for help with kernel exploitations.<br />
-- 💬 Ask me about web development, reverse engineering, web exploitation.<br />
-- 📫 How to reach me: <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a><br />
-- ⚡ Fun fact: I am civil engineer. <br />
+## I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
 
+- 🔭 I’m currently working on an myself.
+- 🌱 I’m currently learning full stack web development.
+- 👯 I’m looking to collaborate with other content creators
+- 🎭 Fun fact: I am Civil Engineer but I am fond of infosec / development / playing chess.
 <br/>
 <hr/>
 <br/>
