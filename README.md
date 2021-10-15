@@ -1,12 +1,12 @@
 <h3>About me</h3>
 <h4>Full Stack Web Developer</h4>
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning full stack web development.
-- 👯 I’m looking to collaborate on open source.
-- 🤔 I’m looking for help with kernel exploitations.
-- 💬 Ask me about web development, reverse engineering, web exploitation.
-- 📫 How to reach me: ar1fshaikh@protonmail.com
-- ⚡ Fun fact: I am civil engineer. 
+- 🔭 I’m currently working on myself.<br />
+- 🌱 I’m currently learning full stack web development.<br />
+- 👯 I’m looking to collaborate on open source.<br />
+- 🤔 I’m looking for help with kernel exploitations.<br />
+- 💬 Ask me about web development, reverse engineering, web exploitation.<br />
+- 📫 How to reach me: ar1fshaikh@protonmail.com<br />
+- ⚡ Fun fact: I am civil engineer. <br />
 
 <br/>
 <hr/>
