@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on an myself.
 - 🌱 I’m currently learning full stack web development.
 - 👯 I’m looking to collaborate with other content creators
-- 🎭 Fun fact: I am Civil Engineer but I am fond of infosec / development / playing chess.
+- 🎭 Fun fact: I mostly use 'i' while working with loops.
 <br/>
 <hr/>
 <br/>
