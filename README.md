@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an myself.
 - 🌱 I’m currently learning full stack web development.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers or penetration testers.
 - 🎭 Fun fact: I mostly use 'i' while working with loops.
 <br/>
 <hr/>
