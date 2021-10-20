@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate with other developers or penetration testers.
 - 🎭 Fun fact: I mostly use 'i' while working with loops.
 <br/>
-<hr/>
 <br/>
 <h3>Things I work with</h3>
 <p>
@@ -34,7 +33,6 @@
 </p>
 
 <br/>
-<hr/>
 <br/>
 <h3>Connect Me</h3>
 <div align="center">
