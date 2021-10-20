@@ -1,7 +1,7 @@
 <img src="https://kylewymer.com/wp-content/uploads/2020/08/portfoliogif.gif"/>
 
 <h3>About me</h3>
-<h4>I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!</h4>
+<b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player and Fitness Freak!</b>
 
 - 🔭 I’m currently working on an myself.
 - 🌱 I’m currently learning full stack web development.
