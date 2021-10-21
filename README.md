@@ -52,6 +52,12 @@
 <br/>
 <br/>
 <h3>My Stats</h3>
+<p align="left">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0x7EVEN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  <img alt="0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 <br/>
 <div style="object-fit:cover;" align="center">
 
