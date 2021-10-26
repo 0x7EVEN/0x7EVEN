@@ -56,7 +56,7 @@
     <img align="center" alt="0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN">
       <br/><br/>
-    <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0x7EVEN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img align="center" title="🔥 0x7EVEN's Streak" alt="0x7EVEN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
 <br/>
