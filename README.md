@@ -3,7 +3,7 @@
 <h1>About me</h1>
 <b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player from India.</b>
 
-- 🔭 I’m currently working on an myself.
+- 🔭 I’m currently working on pepperfry-clone.
 - 🌱 I’m currently learning binary exploitation and advanced reverse engineering.
 - 👯 I’m looking to collaborate with other developers or penetration testers.
 - 🎭 Fun fact: I mostly use 'i' while working with loops.
