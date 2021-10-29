@@ -1,6 +1,6 @@
 <img src="https://kylewymer.com/wp-content/uploads/2020/08/portfoliogif.gif"/>
 
-<h3>About me</h3>
+<h1>About me</h1>
 <b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player from India.</b>
 
 - 🔭 I’m currently working on an myself.
@@ -9,7 +9,7 @@
 - 🎭 Fun fact: I mostly use 'i' while working with loops.
 <br/>
 <br/>
-<h3>Things I work with</h3>
+<h1>Things I work with</h1>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,7 +32,7 @@
 </p>
 <br/>
 <br/>
-<h3>Connect Me</h3>
+<h1>Connect Me</h1>
 <div align="center">
   <a href="https://discordapp.com/users/0xScar#6818/">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
@@ -49,7 +49,7 @@
 </div>
 <br/>
 <br/>
-<h3>My Stats</h3>
+<h1>My Stats</h1>
 <div align="center">
     <img align="center" alt="0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN">
