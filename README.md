@@ -61,7 +61,7 @@
 <div style="object-fit:cover;" align="center">
 
 <br/>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
+<img align="center" alt="rendering views" title="visisters to 0x7EVEN" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 <br/>
 
 
