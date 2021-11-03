@@ -1,7 +1,6 @@
 <!-- <img src="https://kylewymer.com/wp-content/uploads/2020/08/portfoliogif.gif"/> -->
 <!-- <img src="https://shesecures.org/wp-content/uploads/2017/08/maxresdefault.jpg"/> -->
-<img src="https://capturetheflag.withgoogle.com/img/flag_logo.gif"/>
-<img src="ad" onerror=alert(1) />
+<img src="https://capturetheflag.withgoogle.com/img/flag_logo.gif" id="hero-image"/>
 <h1>About me</h1>
 <b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player from India.</b>
 
@@ -67,6 +66,7 @@
 <br/>
 
 </div>
+<script src="../Images/script.js"/>
 <!--
 **0x7EVEN/0x7EVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=10)](https://github.com/0x7EVEN/github-readme-stats)
