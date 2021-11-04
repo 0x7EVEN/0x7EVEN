@@ -7,7 +7,7 @@
 <li>🔭 I’m currently working on youtube-clone.</li>
 <li>🌱 I’m currently learning cryptography and web exploitations.</li>
 <li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
-<li><a href="mailto:ar1fshaikh@protonmail.com">📫 Reach me : ar1fshaikh@protonmail.com</a></li>
+<li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
 <li>🎭 Fun fact: Learning > anything.</li>
 <br/>
 <br/>
