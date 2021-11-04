@@ -4,9 +4,10 @@
 <h1>About me</h1>
 <b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player from India.</b>
 
-<li> 🔭 I’m currently working on youtube-clone.</li>
+<li>🔭 I’m currently working on youtube-clone.</li>
 <li>🌱 I’m currently learning cryptography and web exploitations.</li>
 <li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
+<li>📫 Reach me : ar1fshaikh@protonmail.com</li>
 <li>🎭 Fun fact: Learning > anything.</li>
 <br/>
 <br/>
