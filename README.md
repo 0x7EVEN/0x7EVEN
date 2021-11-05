@@ -2,7 +2,7 @@
 <!-- <img src="https://shesecures.org/wp-content/uploads/2017/08/maxresdefault.jpg"/> -->
 <!-- <img src="https://github.com/0x7EVEN/0x7EVEN/blob/main/Images/1.jpg?raw=true" id="hero-image"/> -->
 <h1>About me</h1>
-<b>I'm an Enthusiastic, Self-Motivated, Developer, CTF player from India.</b>
+<b>I'm an Enthusiastic, Self-Motivated, Developer, CTF enthusiast from India.</b>
 
 <li>🔭 I’m currently working on youtube-clone.</li>
 <li>🌱 I’m currently learning cryptography and web exploitations.</li>
