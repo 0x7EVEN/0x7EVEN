@@ -8,7 +8,7 @@
 <li>🌱 I’m currently learning cryptography and web exploitations.</li>
 <li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 Fun fact: ambidextrous</li>
+<li>🎭 Fun fact : ambidextrous</li>
 <br/>
 <br/>
 <h1>Things I work with</h1>
