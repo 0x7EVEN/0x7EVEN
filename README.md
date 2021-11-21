@@ -8,7 +8,7 @@
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
 <li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 Fun fact : ambidextrous</li>
+<li>🎭 ask me about : Why world is so beautiful.</li>
 <br/>
 <br/>
 <h1>Things I work with</h1>
@@ -65,7 +65,7 @@
 <div style="object-fit:cover;" align="center">
 
 <br/>
-<img align="center" alt="rendering views" title="visisters to 0x7EVEN" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
+<img align="center" alt="rendering views!" title="visisters to 0x7EVEN" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 <br/>
 
 </div>
