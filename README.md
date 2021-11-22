@@ -8,7 +8,7 @@
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
 <li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 ask me about : Why world is so beautiful.</li>
+<!-- <li>🎭 ask me about : Why world is so beautiful.</li> -->
 <br/>
 <br/>
 <h1>Things I work with</h1>
