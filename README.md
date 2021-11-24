@@ -8,7 +8,8 @@
 <br/>
 <hr>
 <h1>About me</h1>
-<b>I'm Self-Motivated, Developer, infosec enthusiast, CTF player from India.</b>
+<b>Arif Shaikh <br/>
+  Developer, infosec enthusiast, CTF player from India.</b>
 
 <li>🔭 I’m currently working on youtube clone.</li>
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
