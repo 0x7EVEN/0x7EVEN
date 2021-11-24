@@ -1,6 +1,13 @@
-<img src="https://kylewymer.com/wp-content/uploads/2020/08/portfoliogif.gif"/>
+<!-- <img src="https://kylewymer.com/wp-content/uploads/2020/08/portfoliogif.gif"/> -->
 <!-- <img src="https://shesecures.org/wp-content/uploads/2017/08/maxresdefault.jpg"/> -->
 <!-- <img src="https://github.com/0x7EVEN/0x7EVEN/blob/main/Images/1.jpg?raw=true" id="hero-image"/> -->
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
+</p>
+<br/>
+<br/>
+<br/>
+<hr>
 <h1>About me</h1>
 <b>I'm Self-Motivated, Developer, infosec enthusiast, CTF player from India.</b>
 
