@@ -2,11 +2,11 @@
 <!-- <img src="https://shesecures.org/wp-content/uploads/2017/08/maxresdefault.jpg"/> -->
 <!-- <img src="https://github.com/0x7EVEN/0x7EVEN/blob/main/Images/1.jpg?raw=true" id="hero-image"/> -->
 <h1>About me</h1>
-<b>I'm an Enthusiastic, Self-Motivated, Developer, infosec enthusiast from India.</b>
+<b>I'm Self-Motivated, Developer, infosec enthusiast, CTF player from India.</b>
 
-<li>🔭 I’m currently working on youtube-clone.</li>
+<li>🔭 I’m currently working on interview prep.</li>
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
-<li>👯 I’m looking to collaborate with other developers or penetration testers.</li>
+<li>👯 I’m looking to contribute to open source projects.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
 <!-- <li>🎭 ask me about : Why world is so beautiful.</li> -->
 <br/>
@@ -23,7 +23,7 @@
 <!--   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> -->
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
+  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
