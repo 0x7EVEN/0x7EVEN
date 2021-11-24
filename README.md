@@ -4,7 +4,7 @@
 <h1>About me</h1>
 <b>I'm Self-Motivated, Developer, infosec enthusiast, CTF player from India.</b>
 
-<li>🔭 I’m currently working on interview prep.</li>
+<li>🔭 I’m currently working on youtube clone.</li>
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
 <li>👯 I’m looking to contribute to open source projects.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
@@ -63,7 +63,7 @@
 </div>
 <br/>
 <div style="object-fit:cover;" align="center">
-
+<br/>
 <br/>
 <img align="center" alt="rendering views!" title="visisters to 0x7EVEN" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 <br/>
