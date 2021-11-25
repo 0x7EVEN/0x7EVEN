@@ -7,7 +7,7 @@
 <h1>Hello welcome to my profile👋.</h1>
 <br/>
 <h1>About me</h1>
-<b> Developer, infosec enthusiast, CTF player from India.</b>
+<b> Developer, cyberSecurity enthusiast, CTF player from India.</b>
 
 <li>🔭 I’m currently working on youtube clone.</li>
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
