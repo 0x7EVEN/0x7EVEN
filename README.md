@@ -13,7 +13,7 @@
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
 <li>👯 I’m looking to contribute to open source projects.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 fun fact : {{7*7}} is not equale to 49.</li>
+<li>🎭 fun fact :  {{7*7}} is not equale to 49.</li>
 <br/>
 <br/>
 <h1>Things I work with</h1>
