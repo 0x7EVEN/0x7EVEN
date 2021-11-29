@@ -43,7 +43,7 @@
 <br/>
 <h1>Obfuscating things at...</h1>
 <div >
- <a align="center" target="_blanck" href="https://github.com/0x7EVEN/Blogs/tree/main/ReverseEngineering/Basics">Reverse Engineeing Blogs</a>
+ <a align="center" target="_blanck" href="https://github.com/0x7EVEN/Blogs">Reverse Engineeing Blogs</a>
 </div>
 <br/>
 <br/>
