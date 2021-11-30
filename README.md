@@ -4,7 +4,7 @@
 <!-- <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer;"></a>
 </p> -->
-<h1>Hello welcome to my profile👋.</h1>
+<h1>Hello👋</h1>
 <br/>
 <h1>About me</h1>
 <b> Developer, cyberSecurity enthusiast, CTF player from India.</b>
