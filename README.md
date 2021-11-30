@@ -7,7 +7,7 @@
 <h1>Hello👋</h1>
 <br/>
 <h1>About me</h1>
-<b> Developer, cyberSecurity enthusiast, <a href="https://www.hackthebox.com/blog/what-is-ctf" target="_black">CTF</a> player from India.</b>
+<b> Developer, cyberSecurity enthusiast, <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a> player from India.</b>
 
 <li>🔭 I’m currently working on youtube clone.</li>
 <li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
