@@ -45,7 +45,6 @@
 <div >
  <a align="center" target="_blanck" href="https://github.com/0x7EVEN/Blogs">Reverse Engineeing Blogs</a>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/7EVEN.png" alt="TryHackMe">
 <br/>
 <br/>
 <h1>Connect Me</h1>
