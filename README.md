@@ -10,7 +10,7 @@
 <b> Developer, cyberSecurity enthusiast, <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a> player from India.</b>
 
 <li>🔭 I’m currently working on youtube clone.</li>
-<li>🌱 I’m currently learning reverse engineering and web app pentesting.</li>
+<!-- <li>🌱 I’m currently .</li> -->
 <li>👯 I’m looking to contribute to open source projects.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
 <!-- <li>🎭 fun fact :  {{7*7}} is not equale to 49.</li> -->
