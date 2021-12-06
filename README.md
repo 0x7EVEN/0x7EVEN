@@ -4,14 +4,13 @@
 <!-- <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer;"></a>
 </p> -->
+<!-- <h1>Hello👋</h1>
+<br/> -->
 <h1>Hello👋</h1>
-<br/>
-<h1>About me</h1>
-<b> Developer, cyberSecurity enthusiast, <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a> player from India.</b>
-
+<b> I am Developer, cyberSecurity enthusiast, <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a> player from India.</b>
 <li>🔭 I’m currently working on youtube clone.</li>
-<!-- <li>🌱 I’m currently .</li> -->
-<li>👯 I’m looking to contribute to open source projects.</li>
+<li>🌱 I’m currently learning web development  and improving my reverse engineering skills.</li>
+<li>👯 I’m looking to contribute to open source projects/ vuln research.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
 <!-- <li>🎭 fun fact :  {{7*7}} is not equale to 49.</li> -->
 <br/>
@@ -36,7 +35,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
 
-  <img alt="Boot Strap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <br/>
@@ -66,7 +65,7 @@
 <br/>
 <h1>My Stats</h1>
 <div align="center">
-    <img align="center" alt="0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&private=true" />
+    <img align="center" alt="🔥 0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&private=true" />
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN">
       <br/><br/>
     <img align="center" title="🔥 0x7EVEN's Streak" alt="0x7EVEN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
