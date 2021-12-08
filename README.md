@@ -48,7 +48,7 @@
 <br/>
 <h1>Connect Me</h1>
 <div align="center">
-  <a href="https://discordapp.com/users/0xScar#6816/">
+  <a href="https://discordapp.com/users/784348741964398593">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-0xScar%236816-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
   </a>
   <a href="https://www.linkedin.com/in/arif-shaikh-191669205/">
