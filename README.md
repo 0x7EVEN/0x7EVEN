@@ -49,7 +49,7 @@
 <h1>Connect Me</h1>
 <div align="center">
   <a href="https://discordapp.com/users/0xScar#6818/">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-0xScar#8618-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
   </a>
   <a href="https://www.linkedin.com/in/arif-shaikh-191669205/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
