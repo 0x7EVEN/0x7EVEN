@@ -7,12 +7,12 @@
 <!-- <h1>Hello👋</h1>
 <br/> -->
 <h1>Hello👋</h1>
-<b> I am Developer, cyberSecurity enthusiast, <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a> player from India.</b>
+<b> I am Developer, cyberSecurity enthusiast,<span color="red"> <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a></span> player from India.</b>
 <li>🔭 I’m currently working on youtube clone.</li>
 <li>🌱 I’m currently learning web development  and improving my reverse engineering skills.</li>
 <li>👯 I’m looking to contribute to open source projects/ vuln research.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 fun fact :  I love butterflies, specially of javascript.</li>
+<li>🎭 fun fact :  I love butterflies, specially of javascript.<a href="https://liveoverflow.com/the-butterfly-of-jsobject-browser-0x02/">hint</a></li>
 <br/>
 <br/>
 <h1>Things I work with</h1>
