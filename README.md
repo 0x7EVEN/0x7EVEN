@@ -12,7 +12,7 @@
 <li>🌱 I’m currently learning web development  and improving my reverse engineering skills.</li>
 <li>👯 I’m looking to contribute to open source projects/ vuln research.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
-<li>🎭 fun fact :  I love butterflies, specially of javascript. <a href="https://liveoverflow.com/the-butterfly-of-jsobject-browser-0x02/">hint</a></li>
+<li>🎭 fun fact :  I love tracking butterflies, specially of javascript. <a href="https://liveoverflow.com/the-butterfly-of-jsobject-browser-0x02/">hint</a></li>
 <br/>
 <br/>
 <h1>Things I work with</h1>
