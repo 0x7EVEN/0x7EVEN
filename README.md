@@ -77,7 +77,6 @@
 <br/>
 <img align="center" alt="rendering views!" title="visisters to 0x7EVEN" src="https://visitor-badge.glitch.me/badge?page_id=0x7EVEN">
 <br/>
-
 </div>
 <!--
 **0x7EVEN/0x7EVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
