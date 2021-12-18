@@ -51,12 +51,12 @@
   <a href="https://discordapp.com/users/784348741964398593">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-0xScar%236816-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
   </a>
-  <a href="https://www.linkedin.com/in/arif-shaikh-191669205/">
+<!--   <a href="https://www.linkedin.com/in/arif-shaikh-191669205/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
-  </a>  
-  <a href="https://ar1fshaikh.vercel.app/">
+  </a>   -->
+<!--   <a href="https://ar1fshaikh.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
-  </a>
+  </a> -->
 <!--   <a href="https://www.instagram.com/ar1fshaikh/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a> -->
