@@ -57,9 +57,9 @@
 <!--   <a href="https://ar1fshaikh.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
   </a> -->
-<!--   <a href="https://www.instagram.com/ar1fshaikh/">
+  <a href="https://www.instagram.com/ar1fshaikh/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
-  </a> -->
+  </a>
 </div>
 <br/>
 <br/>
