@@ -54,23 +54,26 @@
 <!--   <a href="https://www.linkedin.com/in/arif-shaikh-191669205/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>   -->
-<!--   <a href="https://ar1fshaikh.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
-  </a> -->
 <!--   <a href="https://www.instagram.com/ar1fshaikh/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a> -->
 </div>
 <br/>
-<br/>
+<h1>My Portfolio</h1>
+  <br/>
+  <a href="https://ar1fshaikh.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
+  </a>
+  <br/>
+ <br/>
 <h1>My Stats</h1>
-<!-- <div align="center">
-    <img align="center" alt="🔥 0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
+   <div align="center">
+    <img align="center" alt="🔥 0x7EVEN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EVEN&private=true&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 <!--     <a href="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN">
-      <br/><br/>
+<!--       <br/><br/>
     <img align="center" title="🔥 0x7EVEN's Streak" alt="0x7EVEN's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x7EVEN&private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
 <!--     </a> -->
-<!-- </div> -->
+</div>
 <br/>
 <div style="object-fit:cover;" align="center">
 <br/>
