@@ -39,7 +39,7 @@
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/Burpsuit%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
 </p>
 <!-- <br/> -->
 <!-- <br/> -->
