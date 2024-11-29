@@ -32,7 +32,7 @@
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> -->
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <!--   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> -->
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Burpsuite" src="https://img.shields.io/badge/Burpsuite-1572B6?style=for-the-badge&logo=Burpsuite&logoColor=white" />
   <img alt="EJS" src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
    <img alt="GOLANG" src="https://img.shields.io/badge/GO-2ea1b3?style=for-the-badge&logo=go&logoColor=black" />
   <img alt="GNU bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
