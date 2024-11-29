@@ -9,7 +9,7 @@
 <h1>Hello👋</h1>
 <b> I am Developer, cyberSecurity enthusiast,<span color="red"> <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank">CTF</a></span> player from India.</b>
 <li>🔭 I’m currently working on reverse engineering skills.</li>
-<li>🌱 I’m currently learning web development  and improving my reverse engineering skills.</li>
+<li>🌱 I’m currently learning linux kernel exploitation and improving my reverse engineering skills.</li>
 <li>👯 I’m looking to contribute to open source projects/ vuln research.</li>
 <li>📫 Reach me : <a href="mailto:ar1fshaikh@protonmail.com">ar1fshaikh@protonmail.com</a></li>
 <li>🎭 fun fact :  I love tracking butterflies, specially of javascript.<a href="https://liveoverflow.com/the-butterfly-of-jsobject-browser-0x02/">try tracking</a></li>
