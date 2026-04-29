@@ -70,7 +70,7 @@
 <br/>
 <h1>My Portfolio</h1>
   <br/>
-  <a href="https://ar1fshaikh.vercel.app/">
+  <a href="https://ar1fshaikh.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
   </a>
   <br/>
